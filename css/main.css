@@ -122,3 +122,20 @@ section h2 {
 #technology a {
     background-color: darkgrey;
 }
+
+#sports {
+    background-color: rgb(212, 241, 214);
+}
+
+#sports a {
+    background-color: rgb(6, 59, 9);
+    color: white;
+}
+
+#woman {
+    background-color: rgb(250, 216, 221);
+}
+
+#woman a {
+    background-color: rgb(238, 130, 184);
+}
